@@ -37,4 +37,3 @@
 
 <br />
 
-📨  My telegram blog <a href="https://t.me/javohirbek_frontEnd">link</a>
